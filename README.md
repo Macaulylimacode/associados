@@ -4,9 +4,17 @@
 
 ![Captura de tela 2023-08-16 210811](https://github.com/Macaulylimacode/associados/assets/139823222/f481f93c-c18d-41b6-b133-710fa1525e48)
 
+# Informações do Projeto
+
+Projeto de um App para web feito em Python para que 
+seja coletado informações e acompanhado de processos
+judicial.
+
 # funções
 ° Coletar dados de clientes.
+
 ° Armazenar Processos do usuário.
+
 ° Dispor de uma página de acompanhamento do andamento do processo.
 
 
